@@ -69,7 +69,7 @@
    {
      document.querySelector("h1").innerHTML="Oh! It's a draw.";
    }
-  
+
    document.querySelector("button").innerHTML="Click To Play Again";
 
  }
