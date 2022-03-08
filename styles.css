@@ -32,7 +32,7 @@ img {
   width: 80%;
 }
 
-/* .btn {
+.btn {
   -webkit-border-radius: 7;
   -moz-border-radius: 7;
   border-radius: 7px;
@@ -41,6 +41,9 @@ img {
   background: #B000B9;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
 }
 
 .btn:hover {
@@ -51,7 +54,7 @@ img {
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
-} */
+}
 
 footer {
   font-size: 1.2rem;
